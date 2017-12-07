@@ -1,5 +1,5 @@
 ---
-tenant: hp_44870
+tenant: CHANGEME
 vrf: "prod_vrf"
 bridge_domains:
   - bd: "prod_bd"
