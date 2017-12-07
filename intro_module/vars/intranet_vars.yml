@@ -1,5 +1,5 @@
 ---
-  tenant: hp_44870
+  tenant: CHANGEME
   ap: "intranet"
   epgs:
     - epg: "web"
