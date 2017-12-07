@@ -12,4 +12,4 @@
         password: "{{ password }}"
         method: "delete"
         validate_certs: False
-        path: "api/mo/uni/tn-hp_44870.json"
+        path: "api/mo/uni/tn-CHANGEME.json"
