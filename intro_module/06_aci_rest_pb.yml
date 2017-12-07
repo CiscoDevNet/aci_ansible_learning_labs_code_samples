@@ -12,5 +12,5 @@
         password: "{{ password }}"
         validate_certs: False
         method: "post"
-        path: "api/mo/uni/tn-hp_44870/out-corp_l3.json"
+        path: "api/mo/uni/tn-CHANGEME/out-corp_l3.json"
         content: '{"l3extOut": {"attributes": {"descr":"Created Using Ansible", "name":"corp_l3"}}}'
