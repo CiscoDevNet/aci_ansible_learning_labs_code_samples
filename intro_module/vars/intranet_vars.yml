@@ -1,0 +1,23 @@
+---
+  tenant: hp_44870
+  ap: "intranet"
+  epgs:
+    - epg: "web"
+      encap: "21"
+      contract_type: "both"
+      consumer: "sql"
+      provider: "web"
+    - epg: "sql"
+      encap: "22"
+      contract_type: "provider"
+      provider: "sql"
+  epg_contracts:
+    - epg: "web"
+      contract: "web"
+      contract_type: "provider"
+    - epg: "web"
+      contract: "sql"
+      contract_type: "consumer"
+    - epg: "sql"
+      contract: "sql"
+      contract_type: "provider"
