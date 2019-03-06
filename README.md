@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: Code Samples for the ACI Ansible Learning Labs
 
-These code samples are for Learning Labs displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+These code samples are for Learning Labs displayed within the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
