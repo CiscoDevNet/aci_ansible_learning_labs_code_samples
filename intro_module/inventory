@@ -1,6 +1,6 @@
 [apic:vars]
 username=admin
-password=ciscopsdt
+password=!v3G@!4@Y
 ansible_python_interpreter="/usr/bin/env python"
 
 [apic]
